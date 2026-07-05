@@ -1,0 +1,13 @@
+name: microstructure-informed-mechanical-fields
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - pip:
+      - torch>=2.0
+      - gpytorch>=1.11
+      - -e .

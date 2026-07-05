@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated article and this repository."
+title: "Microstructure-Informed Mechanical Fields"
+authors:
+  - family-names: "Li"
+    given-names: "Muduo"
+repository-code: "https://github.com/LMduo/microstructure-informed-mechanical-fields"
+license: "MIT"
+date-released: 2026-07-05
+keywords:
+  - nanoindentation
+  - Gaussian process reconstruction
+  - DBSCAN
+  - voxel finite element mapping
+  - alite paste
